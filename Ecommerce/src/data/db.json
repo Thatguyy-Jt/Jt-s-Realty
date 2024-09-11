@@ -1,0 +1,296 @@
+{
+"product": [
+  {
+    "id": 1,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "sqft": "",
+    "img": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": false
+    
+  },
+  {
+    "id": 2,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": true
+    
+  },
+  {
+    "id": 3,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": false,
+    "topSelling": false
+    
+  },
+  {
+    "id": 4,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": false
+    
+  },
+  {
+    "id": 5,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": false,
+    "topSelling": true
+    
+  },
+  {
+    "id": 6,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": false
+    
+  },
+  {
+    "id": 7,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": true
+    
+  },
+  {
+    "id": 8,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": false
+    
+  },
+  {
+    "id": 9,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": false,
+    "topSelling": false
+    
+  },
+  {
+    "id": 10,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ],
+    "featured": true,
+    "topSelling": true
+    
+  },
+  {
+    "id": 11,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 12,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 13,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 14,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 15,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 16,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 17,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  },
+  {
+    "id": 18,
+    "name":  "",
+    "price": "",
+    "location": "",
+    "description": "",
+    "utilities": "",
+    "images": [
+      {"img": "" },
+      {"img": "" },
+      {"img": "" },
+      {"img": "" }
+    ]
+    
+  }
+]
+}
